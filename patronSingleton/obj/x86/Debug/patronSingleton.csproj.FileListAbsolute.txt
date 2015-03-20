@@ -1,0 +1,9 @@
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\patronSingleton.Form1.resources
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\patronSingleton.Properties.Resources.resources
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\bin\Debug\patronSingleton.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\bin\Debug\patronSingleton.pdb
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\patronSingleton.exe
+c:\users\ingenieria\documents\visual studio 2010\Projects\patronSingleton\patronSingleton\obj\x86\Debug\patronSingleton.pdb
